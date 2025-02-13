@@ -10,3 +10,5 @@ char nome[10]= "Fernanda";
     //Exemplos de printf
     printf("A idade é: %d\n, idade");
     printf("A altura é: %.2f, altura");
+return 0;
+}
